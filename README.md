@@ -1,7 +1,7 @@
 <div>
     <a href="https://github.com/VitorEmerique">
-    <img  width="48.2%" src="https://github-readme-stats.vercel.app/api?username=VitorEmerique&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&border_radius=0"/>
-    <img width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorEmerique&layout=compact&langs_count=7&border_radius=0&theme=material-palenight"/>
+    <img  width="48.2%" src="https://github-readme-stats.vercel.app/api?username=VitorEmerique&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=0"/>
+    <img width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorEmerique&layout=compact&langs_count=7&border_radius=0&theme=radical"/>
    
         
         
