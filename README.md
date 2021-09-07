@@ -14,6 +14,8 @@
     <img aling ="right" alt = "Vitor react"  width = "40px"  style ="diplay:block;margin-left:auto;margin-rigth:auto;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
     <img aling ="right" alt = "Vitor react"  width = "40px"  style ="diplay:block;margin-left:auto;margin-rigth:auto;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
     <img aling ="right" alt = "Vitor react"  width = "40px"  style ="diplay:block;margin-left:auto;margin-rigth:auto;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+     <img aling ="right" alt = "Vitor react"  width = "40px"  style ="diplay:block;margin-left:auto;margin-rigth:auto;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+    <img aling ="right" alt = "Vitor react"  width = "40px"  style ="diplay:block;margin-left:auto;margin-rigth:auto;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"/>
     
 
    
