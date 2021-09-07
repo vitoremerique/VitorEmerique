@@ -1,13 +1,26 @@
 <div>
     <a href="https://github.com/VitorEmerique">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VitorEmerique&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&border_radius=0"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorEmerique&layout=compact&langs_count=7&border_radius=0&theme=material-palenight"/>
+    <img  width="48.2%" src="https://github-readme-stats.vercel.app/api?username=VitorEmerique&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&border_radius=0"/>
+    <img width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorEmerique&layout=compact&langs_count=7&border_radius=0&theme=material-palenight"/>
    
         
         
 </div>
    
+<div style = "display: inline_block"><br>    
+<img aling ="center" alt = "Vitor Java"  width = "40px"  style ="diplay:block;margin-left:auto;margin-rigth:auto;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  
+<img aling ="right" alt = "Vitor react"  width = "40px"  style ="diplay:block;margin-left:auto;margin-rigth:auto;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+    <img aling ="right" alt = "Vitor react"  width = "40px"  style ="diplay:block;margin-left:auto;margin-rigth:auto;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+    <img aling ="right" alt = "Vitor react"  width = "40px"  style ="diplay:block;margin-left:auto;margin-rigth:auto;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+    <img aling ="right" alt = "Vitor react"  width = "40px"  style ="diplay:block;margin-left:auto;margin-rigth:auto;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
     
-<img heigth = "100px" width = "100px"  style ="diplay:block;margin-left:auto;margin-rigth:auto;"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+
    
+
+    
+ 
+    
+    
+ </div> 
     
