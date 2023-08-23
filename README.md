@@ -20,8 +20,7 @@ enthusiastic of technology.
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Postgres SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
 
 
 
